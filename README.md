@@ -9,7 +9,7 @@ Material i3
 - Picom for animations and rounded corners
 - Kitty the terminal
 
-# Screanshots
-![alt text](./screanshots/1.png "shot1")
-![alt text](./screanshots/2.png "shot1")
-![alt text](./screanshots/3.png "shot1")
+# Screenshots
+![alt text](./screenshots/1.png "shot1")
+![alt text](./screenshots/2.png "shot1")
+![alt text](./screenshots/3.png "shot1")
